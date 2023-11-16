@@ -1,0 +1,12 @@
+.swiper {
+    width: 90%;
+    height: 85vh;
+    border: 1px solid yellow;
+    border-radius: 30px;
+  }
+
+  img{
+    width: 1250px;
+    height: 550px;
+    padding: 2px;
+  }

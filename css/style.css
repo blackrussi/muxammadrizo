@@ -1,0 +1,21 @@
+@import url(./swiper.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+header {
+    padding: 15px 0;
+    text-align: center;
+    background: #000;
+    color: yellow;
+    border-radius: 0px 0 30px 30px;
+}
+
+body {
+    background: purple;
+    color: yellow;
+}
